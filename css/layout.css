@@ -22,6 +22,10 @@
   clear: both;
 }
 
+.wrapper {
+  width: 960px;
+}
+
 .col-1 {
   width: 32%;
   float: left;
