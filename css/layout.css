@@ -22,6 +22,7 @@
   clear: both;
 }
 
+/* GRIDS AND WRAPPERS //////////////*/
 .wrapper {
   width: 960px;
 }
@@ -49,6 +50,7 @@
   clear: left;
   margin-left: 0%;
 }
-/* Posititoning Classes */
+/* SECTIONS ////////////////////////////////*/
+
 
 
