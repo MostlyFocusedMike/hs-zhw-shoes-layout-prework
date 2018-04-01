@@ -28,11 +28,12 @@
 }
 
 .col-2 {
-  
+  width: 66%;
+  float: left;
 }
 
 .col-3 {
-  
+  width: 100%
 }
 /* Posititoning Classes */
 
