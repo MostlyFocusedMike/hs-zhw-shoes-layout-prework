@@ -22,6 +22,11 @@
   clear: both;
 }
 
+.col-1 {
+  width: 32%;
+  float: left;
+}
+
 /* Posititoning Classes */
 
 
